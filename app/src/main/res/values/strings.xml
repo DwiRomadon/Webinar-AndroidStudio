@@ -1,0 +1,6 @@
+<resources>
+
+    <string name="app_name">Webinar-Mapbox</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZHdpcjQiLCJhIjoiY2syeGZhOG0zMGFjMjNuczg1MXJ1M3ptayJ9.m4xcIOu0VAbXgcmXqHnWDQ</string>
+
+</resources>
